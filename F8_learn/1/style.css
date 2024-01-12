@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#check{
+    color: rgb(244,230, 23);
+}
+.ok{
+    padding-top: 50px;
+    font-size: 13px;
+    color: blue;
+    padding-top: 34px;
+    margin-top: -20px;
+}
